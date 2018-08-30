@@ -173,7 +173,7 @@ footer {
 }
 
 .info-section h1 {
-    color: var(--blue);
+    color: whitesmoke;
 }
 
 .info-section h4 {
@@ -201,7 +201,7 @@ footer {
 
 .links-section a {
     font-size: .8rem;
-    color: var(--blue);
+    color: whitesmoke;
 }
 
 .links-section a:hover {
