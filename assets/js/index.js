@@ -8,7 +8,7 @@ const websites = [{
 },
 {
     name: "Pusoy Dos Card Game",
-    imgName: "knockout.jpg",
+    imgName: "pusoydos.jpg",
     link: "https://pusoydosbeta.herokuapp.com/",
     github: "https://github.com/Big2CardGame/Big2",
     description: "A beta app for users to learn and practice the card shedding game Pusoy Dos, a variant of Big 2.",
@@ -16,7 +16,7 @@ const websites = [{
 },
 {
     name: "Puppy Clicky Game",
-    imgName: "scrapoogle.jpg",
+    imgName: "puppyClick.jpg",
     link: "https://guarded-inlet-92562.herokuapp.com/",
     github: "https://github.com/janellguzman/Clicky-Game",
     description: "Clicky Game is simple memory game.  Try not to click on the same puppy twice to build up your score.",
@@ -24,10 +24,10 @@ const websites = [{
 },
 {
     name: "EquipRENT",
-    imgName: "freight-sys.jpg",
+    imgName: "equiprent.jpg",
     link: "https://equiprent.herokuapp.com/",
     github: "https://github.com/EquipRENTAL/Main",
-    description: "Website for Freight Systems of NJ.  A Logistics company for your shipping needs.",
+    description: "Website that allows a community of users to borrow or rent out equipment to other users.",
     technologies: "Node.js, Express.js, Handlebars, MongoDB, Mongoose, Axios, Cheerio, Javascript, jQuery, HTML, CSS"
 }
 ];
